@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/lib/netty-all-4.0.56.Final.jar"/>
+	<classpathentry kind="lib" path="src/lib/poi-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="src/lib/quaqua.jar"/>
+	<classpathentry kind="lib" path="src/lib/comm.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
